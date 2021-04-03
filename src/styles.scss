@@ -1,0 +1,35 @@
+*,
+html {
+  font-family: Arial, sans-serif;
+}
+
+#description {
+  margin-top: 0.5rem;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div#tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 0.5rem;
+  background: #ffffff;
+  color: #313639;
+  border: 1px solid #313639;
+  pointer-events: none;
+  font-size: 0.9rem;
+  z-index: 1000;
+}
+
+#layer-2,
+#layer-3 {
+  pointer-events: none;
+}
