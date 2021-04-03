@@ -1,4 +1,4 @@
-# fcc-bar-chart
+# fcc-choropleth-map
 
 Empty project.
 
@@ -31,6 +31,3 @@ node dist/bundle.js
 ## Credits
 
 Made with [createapp.dev](https://createapp.dev/)
-
-# fcc-bar-chart
-# fcc-choropleth-map
